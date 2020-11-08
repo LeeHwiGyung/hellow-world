@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.152,=C:\Users\good2\OneDrive\문서\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.905,=C:\Users\good2\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.421,=C:\Users\good2\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.681,=C:\Users\good2\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020-11-08 15:20:59.368,=C:\Users\good2\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020-11-08 15:22:05.283,C:\Test\hellow-world\test1.pas=C:\Users\good2\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020-11-08 15:22:05.283,C:\Test\hellow-world\test1.dfm=C:\Users\good2\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020-11-08 15:22:18.973,C:\Test\hellow-world\Test.dproj=C:\Users\good2\OneDrive\문서\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
